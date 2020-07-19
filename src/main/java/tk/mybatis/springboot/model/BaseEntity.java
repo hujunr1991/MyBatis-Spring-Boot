@@ -27,10 +27,10 @@ package tk.mybatis.springboot.model;
 import javax.persistence.*;
 
 /**
- * 基础信息
- *
- * @author liuzh
- * @since 2016-01-31 21:42
+ * TODO java类作用描述
+ * @author hujun [hu.junr151@163.com]
+ * @date   2020/7/19 17:29
+ * @since  1.0
  */
 public class BaseEntity {
     @Id

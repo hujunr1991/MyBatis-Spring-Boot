@@ -28,8 +28,10 @@ import tk.mybatis.springboot.model.City;
 import tk.mybatis.springboot.util.MyMapper;
 
 /**
- * @author liuzh_3nofxnp
- * @since 2016-01-22 22:17
+ * TODO java类作用描述
+ * @author hujun [hu.junr151@163.com]
+ * @date   2020/7/19 17:28
+ * @since  1.0
  */
 public interface CityMapper extends MyMapper<City> {
 }

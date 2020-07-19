@@ -28,10 +28,10 @@ import tk.mybatis.mapper.common.Mapper;
 import tk.mybatis.mapper.common.MySqlMapper;
 
 /**
- * 继承自己的MyMapper
- *
- * @author liuzh
- * @since 2015-09-06 21:53
+ * TODO java类作用描述
+ * @author hujun [hu.junr151@163.com]
+ * @date   2020/7/19 17:28
+ * @since  1.0
  */
 public interface MyMapper<T> extends Mapper<T>, MySqlMapper<T> {
     //TODO

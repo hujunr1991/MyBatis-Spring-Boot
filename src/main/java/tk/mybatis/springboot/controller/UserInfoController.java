@@ -38,8 +38,10 @@ import tk.mybatis.springboot.service.UserInfoService;
 import java.util.List;
 
 /**
- * @author liuzh
- * @since 2015-12-19 11:10
+ * TODO java类作用描述
+ * @author hujun [hu.junr151@163.com]
+ * @date   2020/7/19 17:28
+ * @since  1.0
  */
 @RestController
 @RequestMapping("/users")

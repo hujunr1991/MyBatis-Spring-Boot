@@ -28,6 +28,12 @@ import org.apache.ibatis.annotations.Select;
 import tk.mybatis.springboot.model.Country;
 import tk.mybatis.springboot.util.MyMapper;
 
+/**
+ * TODO java类作用描述
+ * @author hujun [hu.junr151@163.com]
+ * @date   2020/7/19 17:27
+ * @since  1.0
+ */
 public interface CountryMapper extends MyMapper<Country> {
 
     @Select("select * from country limit 1")
